@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>The Tomorrow Project</title>
+    <link rel="shortcut icon" href="TemplateData/favicon.ico">
+    <link rel="stylesheet" href="TemplateData/style.css">
+    <link href='https://fonts.googleapis.com/css?family=Source Sans Pro' rel='stylesheet'>
+    <script src="TemplateData/UnityProgress.js"></script>
+    <script src="Build/UnityLoader.js"></script>
+    <script>
+      var unityInstance = UnityLoader.instantiate("unityContainer", "Build/tommorow project web build.json", {onProgress: UnityProgress});
+    </script>
+  </head>
+  <body>
+    <div id="header">
+      <div class="container">
+          <nav>
+              <a >
+                <div class="headerLeft">
+                  <img src="images/logo.png" class="logo" alt="Boxing Logo">
+                  <h1> The Tomorrow Project</h1>
+                </div> 
+              </a>
+              <ul>
+                <li><a href="https://raedraihan.github.io/TheTomorrowProject/index.html">Home</a></li>
+                <li><a href="https://raedraihan.github.io/TheTomorrowProject/howToPlay.html">How To Play</a></li>
+                <li><a href="https://raedraihan.github.io/TheTomorrowProject/Controls.html">Controls</a></li>
+                <li><a href="https://raedraihan.github.io/TheTomorrowProject/Credits.html">Credits</a></li>
+                <li><a href="https://raedraihan.github.io/TheTomorrowProject/Contact.html">Contact</a></li>
+              </ul>
+          </nav>
+          <hr class="gold-line">
+          
+          <div class="mainMenuHeader">
+            
+          </div>
+          
+          <div class="contact">
+            <form  id="contactForm" action="https://formspree.io/f/xgvvpnop" method="POST" target="_blank" rel="noopener noreferrer">
+                <label for="fullName">Full Name</label>
+                <input type="text" name="fullName" required>
+                <br>
+                <label for="email">Email</label>
+                <input type="email" name="email" required>
+                <br>
+                <label for="message">Message</label>
+                <textarea name="message" required></textarea>
+                <br><br><br>
+                <button type="submit">Submit</button>
+            </form>
+        </div>
+          
+          
+
+      </div>
+  
+  </div>
+    
+  </body>
+</html>
