@@ -24,11 +24,12 @@
                 </div> 
               </a>
               <ul>
-                  <li><a href="https://raedraihan.github.io/TheTomorrowProject/index.html">Home</a></li>
-                  <li><a href="https://raedraihan.github.io/TheTomorrowProject/howToPlay.html">How To Play</a></li>
-                  <li><a href="https://raedraihan.github.io/TheTomorrowProject/Controls.html">Controls</a></li>
-                  <li><a href="https://raedraihan.github.io/TheTomorrowProject/Credits.html">Credits</a></li>
-                  <li><a href="https://raedraihan.github.io/TheTomorrowProject/Contact.html">Contact</a></li>
+					
+                  <li><a href="https://tomorrowprojectteam.github.io/Game/">Home</a></li>
+                  <li><a href="https://tomorrowprojectteam.github.io/Game/howToPlay.html">How To Play</a></li>
+                  <li><a href="https://tomorrowprojectteam.github.io/Game/Controls.html">Controls</a></li>
+                  <li><a href="https://tomorrowprojectteam.github.io/Game/Credits.html">Credits</a></li>
+                  <li><a href="https://tomorrowprojectteam.github.io/Game/Contact.html">Contact</a></li>
               </ul>
           </nav>
           <hr class="gold-line">
